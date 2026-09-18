@@ -19,7 +19,7 @@ Lab repositories are **templates**: you make your own copy with one click.
 2. Click the green **Use this template** button, then **Create a new repository**.
 3. Fill in the form:
    - **Owner:** Your own account
-   - **Repository name:** `lab02-your-username` - for example `lab02-jsmith2026`
+   - **Repository name:** `lab02-csci1030u`
    - **Visibility:** **Private**
 4. Click **Create repository**.
 
